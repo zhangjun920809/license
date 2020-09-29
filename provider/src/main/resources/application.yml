@@ -1,0 +1,6 @@
+server:
+  port: 6677
+
+#C:\\Users\\Administrator\\Desktop\\license.lic
+license:
+  licensePath: C:\\Users\\User\\Desktop\\license.lic

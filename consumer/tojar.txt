@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=consumer-2.0.0-jar-with-dependencies.jar -DgroupId=com.data -DartifactId=consumer  -Dversion=9.0.0 -Dpackaging=jar

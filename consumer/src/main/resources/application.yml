@@ -1,0 +1,11 @@
+server:
+  port: 5566
+
+license:
+  subject: InDass
+  publicAlias: publicCert
+  publicKeysStorePath: D:\\keytool\\publicCerts.store
+  #publicKeysStorePath: /usr/publicCerts.store
+  storePass: hongyi2020
+  licensePath: C:\\Users\\User\\Desktop\\license.lic
+  #licensePath: /usr/license.lic
